@@ -1,0 +1,6 @@
+[book]
+authors = ["Sumiya"]
+language = "en"
+multilingual = false
+src = "src"
+title = "StoffelMPC Documentation for test"
